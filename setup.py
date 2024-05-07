@@ -28,7 +28,7 @@ from setuptools.command.build_ext import build_ext
 # project found here: https://github.com/pybind/cmake_example
 #
 
-
+#edits by MSR 2024
 def get_version_from_git():
     """
     Helper to get the ifm3d package version from git
